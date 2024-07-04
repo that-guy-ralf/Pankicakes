@@ -1,1 +1,3 @@
-What do I have so far? Absolutely nothing :)
+# What we have so far:
+---
+- [ x ] Absolutely nothing
